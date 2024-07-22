@@ -8,7 +8,7 @@
              v-model="password"
              type="password"
              placeholder="Enter decryption password" />
-      <button class="w-full p-4 bg-blue-500 text-white text-lg rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50"
+      <button class="w-full p-4 bg-green-500 text-white text-lg rounded-md hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-opacity-50"
               @click="decryptData">
         Decrypt
       </button>
